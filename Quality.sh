@@ -1,1 +1,1 @@
-echo "Quality the project : %date% : %time%"
+echo "Quality the project"

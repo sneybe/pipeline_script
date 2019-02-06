@@ -1,1 +1,1 @@
-echo "Unit the project:%date%:%time%"
+echo "Unit the project"
