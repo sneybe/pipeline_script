@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "building the project"
+echo "building the project:%date:%time%"
